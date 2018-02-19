@@ -1,2 +1,2 @@
 # helloworld.github.io
-Detter er en test
+Dette er en test
